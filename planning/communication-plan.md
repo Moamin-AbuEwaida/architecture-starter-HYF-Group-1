@@ -26,13 +26,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |  Katia  | Rayane  | Moamin  |  Hasan  |  Jose   |  Widad  |
-| --------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Monday    | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 00 - 00 | 00 - 00 |
-| Tuesday   | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 00 - 00 | 00 - 00 |
-| Wednesday | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 00 - 00 | 00 - 00 |
-| Thursday  | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 00 - 00 | 00 - 00 |
-| Friday    | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 00 - 00 | 00 - 00 |
+| Day       |  Katia  | Rayane  | Moamin  |  Hasan  |      JT       |  Widad  |
+| --------- | :-----: | :-----: | :-----: | :-----: | :-----------: | :-----: |
+| Monday    | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 08.00 - 16.00 | 00 - 00 |
+| Tuesday   | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Wednesday | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Thursday  | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Friday    | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
 
 ### How many hours everyone has per day
 
@@ -40,7 +40,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Rayane: _0h_;
 - Moamin: _8h_ , Still flexible to add extra hours during the day ;
 - Hasan: _0h_;
-- Jose: _0h_;
+- Jose: _4h_; I'll start working this next tuesday.
 - Widad: _0h_;
 
 ## Asking for Help
