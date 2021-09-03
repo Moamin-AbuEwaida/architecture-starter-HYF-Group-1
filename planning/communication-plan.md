@@ -28,15 +28,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |  Katia  | Rayane  | Moamin  |  Hasan  |      JT       |  Widad  |
 | --------- | :-----: | :-----: | :-----: | :-----: | :-----------: | :-----: |
-| Monday    | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 08.00 - 16.00 | 00 - 00 |
-| Tuesday   | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
-| Wednesday | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
-| Thursday  | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
-| Friday    | 00 - 00 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Monday    | 10 - 20 | 00 - 00 | 10 - 16 | 00 - 00 | 08.00 - 16.00 | 00 - 00 |
+| Tuesday   | 10 - 20 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Wednesday | 10 - 20 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Thursday  | 10 - 20 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
+| Friday    | 10 - 20 | 00 - 00 | 10 - 16 | 00 - 00 | 17.00 - 21.00 | 00 - 00 |
 
 ### How many hours everyone has per day
 
-- Katia: _0h_;
+- Katia: _6h_; I can always find necessary time
 - Rayane: _0h_;
 - Moamin: _8h_ , Still flexible to add extra hours during the day ;
 - Hasan: _0h_;
