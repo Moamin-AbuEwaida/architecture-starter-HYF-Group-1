@@ -1,10 +1,10 @@
 # QUESTIONS
 
 1) What was the first JavaScript name? (Mocha)
-    a. JaveScript
+    a. JavaScript
     b. Mocha
     c. ECMAScript
-    d. LiveScript 
+    d. LiveScript
 2) What is the result: '26' + 11? (2611)
     a. 37
     b. 2161
@@ -26,8 +26,8 @@ console.log(x);
     c. false
     d. var1 = !var2
 5) What is the correct syntax for referring to an external script
-called "script.js"? (<script srс="script.js">)
-    a. <javascript href= "script.js">
-    b. <script srс="script.js">
-    c. <script href="script.js">
-    d. <javascript srс="script.js">
+called "script.js"? (script srс="script.js")
+    a. javascript href= "script.js"
+    b. script srс="script.js"
+    c. script href="script.js"
+    d. javascript srс="script.js"
