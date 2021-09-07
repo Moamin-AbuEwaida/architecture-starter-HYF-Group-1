@@ -1,10 +1,12 @@
 # JS Quiz Website Creation
 
-This is a full website creation project of [Quiz_Group1](https://moamin-abuewaida.github.io/architecture-starter-HYF-Group-1/)
+This is a full website creation project of
+[Quiz_Group1](https://moamin-abuewaida.github.io/architecture-starter-HYF-Group-1/)
 
 ## General info
 
-Creating a full website to support [Quiz_Group1](https://moamin-abuewaida.github.io/architecture-starter-HYF-Group-1/)
+Creating a full website to support
+[Quiz_Group1](https://moamin-abuewaida.github.io/architecture-starter-HYF-Group-1/)
 activity, working as a team with Git and GitHub, during the Architecture module.
 
 ## Group 3 members
@@ -15,7 +17,7 @@ activity, working as a team with Git and GitHub, during the Architecture module.
 - [Hasan](https://github.com/hserdogan94)
 - [JT](https://github.com/JTLiberona)
 - [Widad](https://github.com/wadiawadia)
-  
+
 ## Technologies
 
 Project is created with:
