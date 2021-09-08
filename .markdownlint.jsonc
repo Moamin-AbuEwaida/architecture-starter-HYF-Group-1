@@ -16,7 +16,7 @@
   // MD003/heading-style/header-style - Heading style
   "MD003": {
     // Heading style
-    "style": "consistent"
+    "style": "atx"
   },
 
   // MD004/ul-style - Unordered list style
@@ -34,7 +34,7 @@
   // MD007/ul-indent - Unordered list indentation
   "MD007": {
     // Spaces for indent
-    "indent": 2,
+    "indent": 4,
     // Whether to indent the first level of the list
     "start_indented": false
   },
@@ -67,7 +67,7 @@
   // MD013/line-length - Line length
   "MD013": {
     // Number of characters
-    "line_length": 80,
+    "line_length": 180,
     // Number of characters for headings
     "heading_line_length": 80,
     // Number of characters for code blocks
@@ -117,7 +117,7 @@
     // Only check sibling headings
     "allow_different_nesting": false,
     // Only check sibling headings
-    "siblings_only": false
+    "siblings_only": true
   },
 
   // MD025/single-title/single-h1 - Multiple top-level headings in the same document
@@ -215,9 +215,9 @@
   // MD043/required-headings/required-headers - Required heading structure
   "MD043": {
     // List of headings
-    "headings": [],
+    //"headings": [],
     // List of headings
-    "headers": []
+    //"headers": []
   },
 
   // MD044/proper-names - Proper names should have the correct capitalization
@@ -242,7 +242,7 @@
 
   // MD048/code-fence-style - Code fence style
   "MD048": {
-    // Code fence syle
+    // Code fence style
     "style": "consistent"
   }
 }
