@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What was the first JavaScript name? ",
+    "answered": false,
+    "answers": [
+      {
+        "text": "JavaScript",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "Mocha",
+        "correct": false,
+        "selected": false
+      },
+      {
+        "text": "ECMAScript",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "LiveScript",
+        "correct": true,
+        "selected": false
+      }
+    ]
+  },
+  {
+    "question": "What is the result: '26' + 11? ",
+    "answered": false,
+    "answers": [
+      {
+        "text": "37",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "2161",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "2611",
+        "correct": false,
+        "selected": false
+      },
+      {
+        "text": "1126",
+        "correct": true,
+        "selected": false
+      }
+    ]
+  },
+  {
+    "question": "What is the output of this code?/n//x=8;/nx=2;/n//x=3;/nconsole.log(x); ",
+    "answered": false,
+    "answers": [
+      {
+        "text": "8",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "3",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "x",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "selected": false
+      }
+    ]
+  },
+  {
+    "question": "What's the result of the expression var1&&var2, if var1=true and var2=false? ",
+    "answered": false,
+    "answers": [
+      {
+        "text": "var1 =  var2",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "true",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "false",
+        "correct": false,
+        "selected": false
+      },
+      {
+        "text": "var1 = !var2",
+        "correct": true,
+        "selected": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'script.js'? ",
+    "answered": false,
+    "answers": [
+      {
+        "text": "<javascript href= 'script.js'>",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "<script srс='script.js'>",
+        "correct": false,
+        "selected": false
+      },
+      {
+        "text": "<script href='script.js'>",
+        "correct": true,
+        "selected": false
+      },
+      {
+        "text": "<javascript srс='script.js'>",
+        "correct": true,
+        "selected": false
+      }
+    ]
+  }
+]
