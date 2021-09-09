@@ -85,3 +85,39 @@ body {
   color: black;
   font-weight: 400;
 }
+
+/* Question's Page */
+
+/* Properties for the question container */
+.question-container {
+  background-color: #fff;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px;
+  text-align: left;
+  border-radius: 10px;
+}
+/* Properties for the answers's container */
+.answers-container {
+  background-color: transparent;
+  max-width: 740px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+  
+}
+/* Properties for each answer */
+.answers-box{
+  background-color: #fff;
+  box-sizing: border-box;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px 30px;
+  text-align: left;
+  border-radius: 10px;
+}
+
+.answers-box:hover{
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transform: scale(1.03);
+}
