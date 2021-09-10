@@ -24,13 +24,13 @@ body {
   border-radius: 10px;
 }
 
+/*removing 'vertical-align: middle;' to avoid the lint:css error */
 .button {
   border-radius: 10px;
   background-color: #3f51b5;
   border: none;
   color: #fff;
   text-align: center;
-  vertical-align: middle;
   font-size: 20px;
   padding: 20px;
   width: 180px;
@@ -97,15 +97,16 @@ body {
   text-align: left;
   border-radius: 10px;
 }
-/* Properties for the answers's container */
+
+/* Properties for the answers container */
 .answers-container {
   background-color: transparent;
   max-width: 740px;
   margin: 40px auto;
   padding: 20px;
   border-radius: 10px;
-  
 }
+
 /* Properties for each answer */
 .answers-box{
   background-color: #fff;
