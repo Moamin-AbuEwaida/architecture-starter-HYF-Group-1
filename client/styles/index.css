@@ -123,6 +123,7 @@ of .button to avoid the linting error
 
 .answers-box:hover {
   box-shadow: 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: lightgray;
   transform: scale(1.03);
 }
 
