@@ -9,6 +9,13 @@
 
 body {
   margin: 0;
+  border: 0;
+  padding: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 100vh;
   font-size: 16px;
   background-color: #3f51b5;
   font-family: 'Montserrat', sans-serif;
@@ -128,7 +135,7 @@ of .button to avoid the linting error
 }
 
 .resultsBar-container {
-  max-width: 25%;
+  max-width: 350px;
   margin: 10px 10px;
   padding: 5px;
   border-radius: 10px;
@@ -142,4 +149,77 @@ of .button to avoid the linting error
   border-radius: 50%;
   margin-right: 10px;
   display: inline-block;
+}
+
+/* Next button container */
+
+.questions-body {
+  background-color: #fff;
+  width: auto;
+  height: auto;
+}
+
+.next-button {
+  display: flex;
+  position: sticky;
+  float: right;
+  width: 120px;
+  height: 45px;
+  right: 28.5%;
+}
+
+#btn-next {
+  background-color: #3f51b5;
+  display: block;
+  position: relative;
+  width: 110px;
+  height: 48px;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  align-items: center;
+  font-weight: 600;
+  padding: 10px;
+  bottom: 77px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  box-shadow: 0 15px 10px -15px rgb(180, 174, 174);
+  transition: all 0.5s;
+}
+
+#btn-next span {
+  display: inline-block;
+  position: relative;
+  padding: 0 7px 0 5px;
+}
+
+#btn-next:hover {
+  background-color: #f5f5f5;
+  color: #3f51b5;
+  border: 2px solid #c5c5c5;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+#btn-next:hover span {
+  padding-right: 25px;
+}
+
+#btn-next span::after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  margin-left: 10px;
+  padding-right: 8px;
+  transition: 0.5s;
+}
+
+#btn-next:hover span::after {
+  opacity: 1;
+  right: 0;
 }
