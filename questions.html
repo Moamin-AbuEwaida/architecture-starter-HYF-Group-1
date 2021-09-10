@@ -4,13 +4,23 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./client/styles/index.css" rel="stylesheet" />
     <title>QuiZzz</title>
 
     <link href="./client/styles/index.css" rel="stylesheet" />
   </head>
   <body>
-    <div id="questionContainer" class="question-container"></div>
+    <div id="questionContainer" class="question-container">
+      <p></p>
+    </div>
     <div id="answersContainer" class="answers-container"></div>
+    <div id="resultsBarContainer" class="resultsBar-container">
+      <div id="resultIndication" class="result-indication"></div>
+      <div id="resultIndication" class="result-indication"></div>
+      <div id="resultIndication" class="result-indication"></div>
+      <div id="resultIndication" class="result-indication"></div>
+      <div id="resultIndication" class="result-indication"></div>
+    </div>
     <script
       type="module"
       src="./client/src/presentation/init/index.js"
