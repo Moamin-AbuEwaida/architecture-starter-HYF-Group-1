@@ -23,9 +23,11 @@ body {
   padding: 30px;
   border-radius: 10px;
 }
+
 /* i had to remove this line "vertical-align: middle;"
 of .button to avoid the linting error
 */
+
 .button {
   border-radius: 10px;
   background-color: #3f51b5;
@@ -40,6 +42,7 @@ of .button to avoid the linting error
   margin: 0 auto;
   display: block;
 }
+
 .button span {
   cursor: pointer;
   display: inline-block;
@@ -97,9 +100,8 @@ of .button to avoid the linting error
 .result-indication {
   height: 50px;
   width: 50px;
-  background-color:#b8b8b8;
+  background-color: #b8b8b8;
   border-radius: 50%;
-  margin-right:10px ;
+  margin-right: 10px;
   display: inline-block;
 }
-
