@@ -134,7 +134,7 @@ of .button to avoid the linting error
 }
 
 .resultsBar-container {
-  max-width: 25%;
+  max-width: 350px;
   margin: 10px 10px;
   padding: 5px;
   border-radius: 10px;
